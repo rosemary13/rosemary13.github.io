@@ -4,7 +4,7 @@ if (top.location != self.location) {
 
 var htimg = 'http://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rJLEUQzFF5g6vtaCczdL62ZblmyE4q76Sg/0',
 	hturl = 'https://rosemary13.github.io',
-	til = '特种兵退役开饭店，小痞子不知天高地厚竟来收保护费>>',
+	til = '[看视频分红包，人人有份]特种兵退役开饭店，小痞子不知天高地厚竟来收保护费>>',
 	vid = 'm0363jdry96',
 	delayTime = 155;
 
