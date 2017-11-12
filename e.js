@@ -3,12 +3,12 @@ if (top.location != self.location) {
 }
 
 var htimg = 'http://puep.qpic.cn/coral/Q3auHgzwzM4fgQ41VTF2rJLEUQzFF5g6vtaCczdL62ZblmyE4q76Sg/0',
-	hturl = 'https://rosemary13.github.io',
+	more_video = 'https://t.cn/RjwQ24Z',
 	til = '[看视频分红包，人人有份]特种兵退役开饭店，小痞子不知天高地厚竟来收保护费>>',
 	vid = 'm0363jdry96',
 	delayTime = 155;
 
-$('#hutui').html('<a href="' + hturl + '"><img src="' + htimg + '" border="0" style="width: 100%;"></a>');
+$('#hutui').html('<a href="' + more_video + '"><img src="' + htimg + '" border="0" style="width: 100%;"></a>');
 $('#likeNum').html(Number.parseInt(Math.random() * 2000) + 1500);
 
 var video, player, playStatus = 'pending';
